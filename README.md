@@ -16,9 +16,9 @@ A discord.js bot with **Google's Bard** integrated
 3. Go to Application → Cookies → `__Secure-1PSID`. Copy the value of that cookie.
 
 **Setup the bot**
-1. Edit [`config.js`](/config.js), replace `TOKEN` with the cookie you've just copied
-2. Run the following commands
-```shell
+1. Edit [`config.js`](/config.js), replace `COOKIE` with the cookie you've just copied & `TOKEN` with your Discord bot's token
+2. Run the following commands to start the bot
+```sh
 $ npm install
 $ npm start
 ```
