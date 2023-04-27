@@ -13,7 +13,19 @@ A discord.js bot with **Google's Bard** integrated
 **Grab cookie**
 1. Visit [bard.google.com](https://bard.google.com) 
 2. Press F12 (open developer console)
-3. Go to Application → Cookies → __Secure-1PSID. Copy the value of that cookie.
+3. Go to Application → Cookies → `__Secure-1PSID`. Copy the value of that cookie.
 
 **Setup the bot**
-- Edit [`config.js`](/config.js), replace `TOKEN` with the cookie you've just copied
+1. Edit [`config.js`](/config.js), replace `TOKEN` with the cookie you've just copied
+2. Run the following commands
+    ```
+    npm install
+    npm start
+    ```
+
+**Ways to use**
+- Use `!ask <YOUR_QUESTION>` to ask a question (in a server/guild)
+- DM the bot with your question (for continuous conversation)
+
+## 
+
