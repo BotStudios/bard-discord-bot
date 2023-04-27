@@ -18,10 +18,10 @@ A discord.js bot with **Google's Bard** integrated
 **Setup the bot**
 1. Edit [`config.js`](/config.js), replace `TOKEN` with the cookie you've just copied
 2. Run the following commands
-    ```
-   $ npm install
-   $ npm start
-    ```
+```shell
+$ npm install
+$ npm start
+```
 
 **Ways to use**
 - Use `!ask <YOUR_QUESTION>` to ask a question (in a server/guild)
