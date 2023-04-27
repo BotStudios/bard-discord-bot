@@ -19,8 +19,8 @@ A discord.js bot with **Google's Bard** integrated
 1. Edit [`config.js`](/config.js), replace `TOKEN` with the cookie you've just copied
 2. Run the following commands
     ```
-    npm install
-    npm start
+   $ npm install
+   $ npm start
     ```
 
 **Ways to use**
