@@ -1,5 +1,5 @@
 # [Bard](https://bard.google.com) on [Discord](https://discord.com/) <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="35px" />
-A discord.js bot with **Google's Bard** integrated 
+A discord.js bot with **Google's Bard** integration 
 
 > This project is made possible by [PawanOsman's GoogleBard library](https://github.com/PawanOsman/GoogleBard)
 
