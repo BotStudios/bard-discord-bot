@@ -20,6 +20,7 @@ A discord.js bot with **Google's Bard** integrated
 2. Run the following commands to start the bot
 ```sh
 $ npm install
+$ npm run register # to register a slash command
 $ npm start
 ```
 
