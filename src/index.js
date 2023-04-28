@@ -74,12 +74,15 @@ client.on("interactionCreate", async (interaction) => {
   }
 });
 
-client.on("messageCreate", (message) => {
+client.on("messageCreate", async (message) => {
   if (message.channel.type != "DM") return;
   if (message.author.bot) return;
-  bot.ask(message.content, message.author.id).then((r) => {
-    send(message, r);
-  });
+  try {
+    const result = await bot.ask(message.content, message.author.id);
+    await send(message, result);
+  } catch (e) {
+    console.log(e);
+  }
 });
 
 client.login(config.token);

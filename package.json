@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "register": "npm install discord-api-types && npm install @discordjs/rest && node src/registerCommand.js"
   },
   "repository": {
     "type": "git",
@@ -24,8 +25,6 @@
   },
   "homepage": "https://github.com/BotStudios/bard-discord-bot#readme",
   "dependencies": {
-    "@discordjs/rest": "^1.7.0",
-    "discord-api-types": "^0.37.40",
     "discord.js": "^13.15.1",
     "googlebard": "^1.0.4"
   }
