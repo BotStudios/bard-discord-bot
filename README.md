@@ -32,4 +32,5 @@ $ npm start # start the bot
 > For **MessageCommand Support**
 > 1. Enable the **Message Content Intent** in your [Discord Bot Portal](https://discord.com/developers) - place where you obtain your bot token
 > 2. Set the value of `messageCommand` in [config.js](/config.js) to `true`
+> You may now send `!ask <YOUR_QUESTION>` in a server/guild
 
