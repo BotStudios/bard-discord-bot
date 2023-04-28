@@ -46,5 +46,8 @@ $ npm start # start the bot
 > 
 > You may now send `!ask <PROMPT>` in a server/guild, this is tantamount to the `/ask` slash command
 
+## Questions/Contributions
+Feel free to create an [issue](https://github.com/BotStudios/bard-discord-bot/issues) for any help/concern. Contributions are always welcome, just create a pull request!
+
 ## License
 This project is available as an open source under the terms of the [MIT License](/LICENSE)
