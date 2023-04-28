@@ -9,8 +9,16 @@ A discord.js bot with **Google's Bard** integration
 - Supports continuous conversation (DM only)
 - Easy to setup (need an access to Bard)
 
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
 <img src="https://user-images.githubusercontent.com/81070048/235217555-daf918db-cfcf-49c2-b1cc-36ff15cadbb8.gif" width="400">
-
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+<img src="https://user-images.githubusercontent.com/81070048/235217555-daf918db-cfcf-49c2-b1cc-36ff15cadbb8.gif" width="400">
+    </td>
+  </tr>
+</table>
 
 ## How to setup
 **Grab cookie**
