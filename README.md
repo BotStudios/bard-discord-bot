@@ -19,13 +19,13 @@ A discord.js bot with **Google's Bard** integrated
 1. Edit [`config.js`](/config.js), replace `COOKIE` with the cookie you've just copied & `TOKEN` with your Discord bot's token
 2. Run the following commands to start the bot
 ```sh
-$ npm install
-$ npm run register # to register a slash command
-$ npm start
+$ npm install # install dependencies 
+$ npm run register # to register a slash command (you only have to run once)
+$ npm start # start the bot
 ```
 
 **Ways to use**
-- Use `!ask <YOUR_QUESTION>` to ask a question (in a server/guild)
+- Use `!ask <YOUR_QUESTION>` to ask a question (in a server/guild) - only if `messageCommand` is set to `true` in [`config.js`](/config.js)
 - DM the bot with your question (for continuous conversation)
 
 ## 
