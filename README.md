@@ -15,7 +15,7 @@ A discord.js bot with **Google's Bard** integration
       <img src="https://user-images.githubusercontent.com/81070048/235217555-daf918db-cfcf-49c2-b1cc-36ff15cadbb8.gif" width="400">
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://user-images.githubusercontent.com/81070048/235220367-3cbac016-70b6-4056-a670-ad77accb8015.gif" width="450">
+      <img src="https://user-images.githubusercontent.com/81070048/235220367-3cbac016-70b6-4056-a670-ad77accb8015.gif" width="430">
     </td>
   </tr>
 </table>
