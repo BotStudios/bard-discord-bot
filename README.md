@@ -25,9 +25,9 @@ $ npm start # start the bot
 ```
 
 **Ways to use**
-- Use `/ask prompt:<YOUR_QUESTION>` (after registering the slash command) to ask a question
-- Use `!ask <YOUR_QUESTION>` in a server/guild - only if `messageCommand` is set to `true` in [`config.js`](/config.js)
+- Use `/ask prompt:<YOUR_QUESTION>` to ask a question (after registering the slash command)
 - DM the bot with your question (for continuous conversation)
 
-## 
+**For `MessageCommand Support`**
+1. Enable the **Message Content Intent** in your [Discord Bot Portal](https://discord.com/developers) - place where you obtain your bot token
 
