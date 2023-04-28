@@ -25,7 +25,7 @@ $ npm start # start the bot
 ```
 
 **Ways to use**
-- Use `!ask <YOUR_QUESTION>` to ask a question (in a server/guild) - only if `messageCommand` is set to `true` in [`config.js`](/config.js)
+- Use `!ask <YOUR_QUESTION>` in a server/guild -- only if `messageCommand` is set to `true` in [`config.js`](/config.js)
 - DM the bot with your question (for continuous conversation)
 
 ## 
