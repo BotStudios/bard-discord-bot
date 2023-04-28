@@ -35,4 +35,4 @@ $ npm start # start the bot
 > 
 > You may now send `!ask <PROMPT>` in a server/guild, this is tantamount to the `/ask` slash command
 
-<img src="https://frontendkey.github.io/assets/generate-facts.gif#" width="600">
+![](https://frontendkey.github.io/assets/generate-facts.gif)
